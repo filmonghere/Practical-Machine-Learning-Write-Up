@@ -9,15 +9,6 @@ This ripo contains the write up part of the Practical Machine Learning project w
 3) [Submission] (./Submssion) files that contain the answer for the test data. 
 
 
----
-title: "Classification of Personal Activity using Machine Learning Algorithms"
-author: "Filmon G. Habtemichael"
-date: "Tuesday, August 18, 2015"
-output: html_document
----
-
-This document was prepared as a response to a homework assignment the course Practical Machine Learning offered from Johns Hopkins University in the Data Science Specialization. 
-
 ## Introduction
 
 The objective of this document is to apply machine learning algorithms in an attempt to classify personal activity information collected from nomadic devices (activities include several kinds of weight lifting excersices). In this project, several machine learning algorithms are employes, namely: **Decision Tree** and **Random Forest**. A link to Github repo containg R markdown and compiled HTML files describing the analysis performed in this project are also provied. 
